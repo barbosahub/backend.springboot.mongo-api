@@ -16,7 +16,7 @@
 
 <p> Consulta com Swagger
 </p>
-<img src="https:https://github.com/barbosahub/ImageRepository/blob/master/PJ-SpringMongoAPI_Basic.01/Swagger.JPG" width="750" alt="Aplicação rodando no Swagger">
+<img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-SpringMongoAPI_Basic.01/Swagger.JPG" width="750" alt="Aplicação rodando no Swagger">
 
 <p> Database criado no MongoDB
 </p>
