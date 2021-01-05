@@ -14,6 +14,9 @@
   <img src="https://github.com/barbosahub/PJ-SpringMongoAPI_Basic.01/blob/main/Images/Delete.JPG" width="750" alt="Method Delete with postman">
 </p>
 
+<p> Consulta com Swagger
+</p>
+<img src="https://github.com/barbosahub/PJ-SpringMongoAPI_Basic.01/blob/main/Images/Swagger.JPG" width="750" alt="Swagger">
 
 <p> Database criado no MongoDB
 </p>
