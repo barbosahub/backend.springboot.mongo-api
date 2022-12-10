@@ -1,7 +1,7 @@
 # PJ-SpringMongoAPI_Basic.01
 
 ## Descrição do Projeto
-<p align="justify"> Objetivo do projeto: Criar API Java8 e Springboot com MongoDB.
+<p align="justify"> Objetivo do projeto: Criar API Java8 e Springboot com MongoDB..
 </p>
 
 ## Realizando consultas com Postman na aplicação.
