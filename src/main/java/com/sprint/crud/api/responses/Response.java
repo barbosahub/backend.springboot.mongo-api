@@ -13,7 +13,7 @@ public class Response <T>{
 	
 	public Response(List<String> erros) {
 		this.erros = erros;
-	}
+	} 
 
 	public T getData() {
 		return data;

@@ -27,7 +27,7 @@ import io.swagger.annotations.ApiOperation;
 @Api(value="API REST Clientes")
 @CrossOrigin(origins="*")
 public class ClienteController {
-
+   
 	@Autowired
 	private ClienteService clienteService;
 	

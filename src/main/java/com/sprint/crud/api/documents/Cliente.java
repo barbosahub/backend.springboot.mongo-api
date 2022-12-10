@@ -24,7 +24,7 @@ public class Cliente {
 	public void setId(String id) {
 		this.id = id;
 	}
-	
+	 
 	@NotNull(message = "Name may not be null")
 	public String getNome() {
 		return nome;

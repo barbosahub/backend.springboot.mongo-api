@@ -7,3 +7,4 @@ import com.sprint.crud.api.documents.Cliente;
 public interface ClienteRepository extends MongoRepository<Cliente, String> {
 
 }
+   
